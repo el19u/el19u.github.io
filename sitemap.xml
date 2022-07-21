@@ -2,9 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://el19u.com/categories/</loc>
-  </url><url>
     <loc>https://el19u.com/</loc>
+    <lastmod>2022-07-21T00:28:14+08:00</lastmod>
+  </url><url>
+    <loc>https://el19u.com/posts/javascript_todolist/</loc>
+    <lastmod>2022-07-21T00:28:14+08:00</lastmod>
+  </url><url>
+    <loc>https://el19u.com/posts/</loc>
+    <lastmod>2022-07-21T00:28:14+08:00</lastmod>
+  </url><url>
+    <loc>https://el19u.com/posts/byebug%E6%98%AF%E5%80%8B%E5%A5%BD%E6%9D%B1%E8%A5%BF/</loc>
+    <lastmod>2022-07-21T00:27:29+08:00</lastmod>
+  </url><url>
+    <loc>https://el19u.com/posts/sql%E8%AA%9E%E6%B3%95%E8%A4%87%E7%BF%92/</loc>
+    <lastmod>2022-07-21T00:25:51+08:00</lastmod>
+  </url><url>
+    <loc>https://el19u.com/posts/email%E6%94%B6%E7%99%BC%E4%BF%A1%E7%9A%84%E5%90%84%E7%A8%AE%E5%8D%94%E5%AE%9A/</loc>
+    <lastmod>2022-07-21T00:25:07+08:00</lastmod>
+  </url><url>
+    <loc>https://el19u.com/posts/ruby_%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%9100/</loc>
+    <lastmod>2022-07-21T00:06:47+08:00</lastmod>
+  </url><url>
+    <loc>https://el19u.com/categories/</loc>
   </url><url>
     <loc>https://el19u.com/tags/</loc>
   </url>

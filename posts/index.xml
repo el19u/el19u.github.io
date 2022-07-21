@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Elik</title>
-    <link>https://el19u.com/</link>
-    <description>Recent content on Elik</description>
+    <title>Posts on Elik</title>
+    <link>https://el19u.com/posts/</link>
+    <description>Recent content in Posts on Elik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 21 Jul 2022 00:28:14 +0800</lastBuildDate><atom:link href="https://el19u.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 00:28:14 +0800</lastBuildDate><atom:link href="https://el19u.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript_TodoList</title>
       <link>https://el19u.com/posts/javascript_todolist/</link>
